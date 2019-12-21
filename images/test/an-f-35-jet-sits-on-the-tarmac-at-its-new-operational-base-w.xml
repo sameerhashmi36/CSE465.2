@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>an-f-35-jet-sits-on-the-tarmac-at-its-new-operational-base-w.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\test\an-f-35-jet-sits-on-the-tarmac-at-its-new-operational-base-w.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>371</width>
+		<height>277</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>25</ymin>
+			<xmax>361</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>an-israeli-f-35-fighter-jets-performs-during-an-air-show-news-photo-1142336085-1560892364.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\an-israeli-f-35-fighter-jets-performs-during-an-air-show-news-photo-1142336085-1560892364.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>39</ymin>
+			<xmax>284</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>mig-29_fulcrum_a_polish_air_force_100th_anniversary_mikoyan_mig-29_-29_hobby_master_ha6502_scale_1-72_1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\mig-29_fulcrum_a_polish_air_force_100th_anniversary_mikoyan_mig-29_-29_hobby_master_ha6502_scale_1-72_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3060</width>
+		<height>1104</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>213</ymin>
+			<xmax>2903</xmax>
+			<ymax>953</ymax>
+		</bndbox>
+	</object>
+</annotation>
