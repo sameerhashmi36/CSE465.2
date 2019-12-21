@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>Lockheeds-Sidekick-adds-increased-firepower-to-F-35-fighters.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\Lockheeds-Sidekick-adds-increased-firepower-to-F-35-fighters.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>975</width>
+		<height>649</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>51</ymin>
+			<xmax>866</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

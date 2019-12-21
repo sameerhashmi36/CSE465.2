@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_3_5_3_6_23886353-3-eng-GB_Cropped-15759910501616803.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\train\https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_3_5_3_6_23886353-3-eng-GB_Cropped-15759910501616803.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4942</width>
+		<height>2779</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>52</ymin>
+			<xmax>4917</xmax>
+			<ymax>2695</ymax>
+		</bndbox>
+	</object>
+</annotation>

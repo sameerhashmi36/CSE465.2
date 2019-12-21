@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>jrvipvo_mig-29_108.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\train\jrvipvo_mig-29_108.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>41</ymin>
+			<xmax>589</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

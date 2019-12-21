@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>jalandhar-india-jalandhar-adampur-taking-pardeep-pandit_e2ec145c-5688-11e9-8f69-76e382037a5f.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\jalandhar-india-jalandhar-adampur-taking-pardeep-pandit_e2ec145c-5688-11e9-8f69-76e382037a5f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>75</ymin>
+			<xmax>909</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

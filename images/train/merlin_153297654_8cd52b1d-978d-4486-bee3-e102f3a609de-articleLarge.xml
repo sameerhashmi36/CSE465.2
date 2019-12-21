@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>merlin_153297654_8cd52b1d-978d-4486-bee3-e102f3a609de-articleLarge.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\train\merlin_153297654_8cd52b1d-978d-4486-bee3-e102f3a609de-articleLarge.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>401</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>110</ymin>
+			<xmax>530</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

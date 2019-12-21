@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>jet_2.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\jet_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>647</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>35</ymin>
+			<xmax>626</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>kecskemet-hungary-aug-hungarian-air-force-mig-fulcrum-fighter-jet-taxiing-to-runway-103616320.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\kecskemet-hungary-aug-hungarian-air-force-mig-fulcrum-fighter-jet-taxiing-to-runway-103616320.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>122</ymin>
+			<xmax>779</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>mfc-eots-masthead.jpg.pc-adaptive.full.medium.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\mfc-eots-masthead.jpg.pc-adaptive.full.medium.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>138</ymin>
+			<xmax>1259</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

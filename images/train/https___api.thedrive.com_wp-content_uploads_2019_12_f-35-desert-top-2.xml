@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>https___api.thedrive.com_wp-content_uploads_2019_12_f-35-desert-top-2.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\train\https___api.thedrive.com_wp-content_uploads_2019_12_f-35-desert-top-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>810</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>239</ymin>
+			<xmax>1402</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+</annotation>

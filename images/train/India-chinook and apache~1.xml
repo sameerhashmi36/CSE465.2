@@ -1,0 +1,38 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>India-chinook and apache~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\India-chinook and apache~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>751</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>146</ymin>
+			<xmax>423</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>apache ah-64</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>511</xmin>
+			<ymin>70</ymin>
+			<xmax>707</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>
