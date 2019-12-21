@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>f35-jet.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\train\f35-jet.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>968</width>
+		<height>681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>3</ymin>
+			<xmax>786</xmax>
+			<ymax>671</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>F-35-first-take-off-677x437.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\F-35-first-take-off-677x437.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>677</width>
+		<height>437</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>168</ymin>
+			<xmax>416</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>F35C-flight-line-1800.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\F35C-flight-line-1800.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>621</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>186</ymin>
+			<xmax>236</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>139</ymin>
+			<xmax>620</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

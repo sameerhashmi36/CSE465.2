@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>f35bs_raf_marham_flight_line.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\f35bs_raf_marham_flight_line.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>442</width>
+		<height>293</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>57</ymin>
+			<xmax>193</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>75</ymin>
+			<xmax>288</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>98</ymin>
+			<xmax>420</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>
