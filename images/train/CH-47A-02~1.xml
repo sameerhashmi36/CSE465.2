@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>CH-47A-02~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\CH-47A-02~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>497</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>86</ymin>
+			<xmax>668</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

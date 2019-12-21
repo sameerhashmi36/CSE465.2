@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>bangladesh-air-force-upgrading-mig-29-fleet.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\bangladesh-air-force-upgrading-mig-29-fleet.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>238</ymin>
+			<xmax>872</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

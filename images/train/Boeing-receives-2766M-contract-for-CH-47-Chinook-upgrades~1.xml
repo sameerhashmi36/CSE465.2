@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>Boeing-receives-2766M-contract-for-CH-47-Chinook-upgrades~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\Boeing-receives-2766M-contract-for-CH-47-Chinook-upgrades~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>975</width>
+		<height>648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>85</ymin>
+			<xmax>832</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

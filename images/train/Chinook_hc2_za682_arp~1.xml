@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>Chinook_hc2_za682_arp~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\Chinook_hc2_za682_arp~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2186</width>
+		<height>1343</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>121</ymin>
+			<xmax>2029</xmax>
+			<ymax>1094</ymax>
+		</bndbox>
+	</object>
+</annotation>

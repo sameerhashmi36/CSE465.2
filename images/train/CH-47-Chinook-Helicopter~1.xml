@@ -1,0 +1,50 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>CH-47-Chinook-Helicopter~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\CH-47-Chinook-Helicopter~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>867</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>238</ymin>
+			<xmax>847</xmax>
+			<ymax>706</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>black hawk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>449</ymin>
+			<xmax>362</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>black hawk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>817</xmin>
+			<ymin>479</ymin>
+			<xmax>1111</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>
