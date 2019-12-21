@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>WhatsApp_Image_2019-07-14_at_19.36.43.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\WhatsApp_Image_2019-07-14_at_19.36.43.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>134</ymin>
+			<xmax>1008</xmax>
+			<ymax>650</ymax>
+		</bndbox>
+	</object>
+</annotation>

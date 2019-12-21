@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>us-not-to-sell-f-35-fighter-jets-to-turkey-for-buying-russian-defence-equipment.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\us-not-to-sell-f-35-fighter-jets-to-turkey-for-buying-russian-defence-equipment.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>27</ymin>
+			<xmax>555</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

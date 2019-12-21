@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>United-Technologies-awarded-7625M-for-Air-Force-Marine-Corps-F-35-engines.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\United-Technologies-awarded-7625M-for-Air-Force-Marine-Corps-F-35-engines.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>696</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>121</ymin>
+			<xmax>668</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>
