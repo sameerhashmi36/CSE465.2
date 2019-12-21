@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>CUZPS5GKZJELPLCACPH5CVL74U.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\CUZPS5GKZJELPLCACPH5CVL74U.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>857</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>107</ymin>
+			<xmax>1136</xmax>
+			<ymax>772</ymax>
+		</bndbox>
+	</object>
+</annotation>

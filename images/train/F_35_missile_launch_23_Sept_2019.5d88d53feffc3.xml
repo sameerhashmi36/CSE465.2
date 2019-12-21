@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>F_35_missile_launch_23_Sept_2019.5d88d53feffc3.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\train\F_35_missile_launch_23_Sept_2019.5d88d53feffc3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>51</ymin>
+			<xmax>390</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

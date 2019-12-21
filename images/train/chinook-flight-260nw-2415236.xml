@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>chinook-flight-260nw-2415236.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\chinook-flight-260nw-2415236.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>391</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>35</ymin>
+			<xmax>361</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

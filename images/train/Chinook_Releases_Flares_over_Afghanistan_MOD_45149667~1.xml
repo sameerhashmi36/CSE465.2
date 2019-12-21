@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>Chinook_Releases_Flares_over_Afghanistan_MOD_45149667~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\Chinook_Releases_Flares_over_Afghanistan_MOD_45149667~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4367</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>273</ymin>
+			<xmax>3899</xmax>
+			<ymax>1923</ymax>
+		</bndbox>
+	</object>
+</annotation>

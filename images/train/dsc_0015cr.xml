@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>dsc_0015cr.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\dsc_0015cr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2200</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>110</ymin>
+			<xmax>2023</xmax>
+			<ymax>1002</ymax>
+		</bndbox>
+	</object>
+</annotation>

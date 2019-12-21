@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>F-22s-F-35s-fly-together-141105-F-XC395-173-1024x682.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\F-22s-F-35s-fly-together-141105-F-XC395-173-1024x682.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-22 Raptor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>438</xmin>
+			<ymin>169</ymin>
+			<xmax>819</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F-22 Raptor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>601</xmin>
+			<ymin>58</ymin>
+			<xmax>898</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>445</ymin>
+			<xmax>535</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>297</ymin>
+			<xmax>718</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>
