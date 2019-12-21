@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>1000w_q95~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\1000w_q95~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>236</ymin>
+			<xmax>901</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

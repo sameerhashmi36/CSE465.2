@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>51_Blue_Mikoyan_Mig-29_Russian_Air_Force_(7985354506).jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\51_Blue_Mikoyan_Mig-29_Russian_Air_Force_(7985354506).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>318</ymin>
+			<xmax>2249</xmax>
+			<ymax>1135</ymax>
+		</bndbox>
+	</object>
+</annotation>
