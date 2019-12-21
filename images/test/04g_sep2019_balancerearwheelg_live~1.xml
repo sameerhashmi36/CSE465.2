@@ -1,0 +1,38 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>04g_sep2019_balancerearwheelg_live~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\04g_sep2019_balancerearwheelg_live~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1072</width>
+		<height>826</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>102</ymin>
+			<xmax>1017</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>apache ah-64</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>337</ymin>
+			<xmax>219</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>41+YoEBa4ML._SX425_~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\41+YoEBa4ML._SX425_~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>425</width>
+		<height>295</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>45</ymin>
+			<xmax>394</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>8ood9118_chinook-ch47fi-helicopter-pti_625x300_25_March_19.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\8ood9118_chinook-ch47fi-helicopter-pti_625x300_25_March_19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>226</ymin>
+			<xmax>513</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

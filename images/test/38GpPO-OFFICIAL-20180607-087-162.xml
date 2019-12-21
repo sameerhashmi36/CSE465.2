@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>38GpPO-OFFICIAL-20180607-087-162.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\test\38GpPO-OFFICIAL-20180607-087-162.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3600</width>
+		<height>2250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>1057</ymin>
+			<xmax>3510</xmax>
+			<ymax>1844</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>781</xmin>
+			<ymin>502</ymin>
+			<xmax>2628</xmax>
+			<ymax>1007</ymax>
+		</bndbox>
+	</object>
+</annotation>
