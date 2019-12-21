@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>694940094001_6001714877001_6001714094001-vs.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\694940094001_6001714877001_6001714094001-vs.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>931</width>
+		<height>524</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>6</ymin>
+			<xmax>877</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>

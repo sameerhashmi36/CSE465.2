@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>1576513665_Air-Force-F-35-and-Army-Howitzers-practice-double-team-enemy-air.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\1576513665_Air-Force-F-35-and-Army-Howitzers-practice-double-team-enemy-air.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>601</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>40</ymin>
+			<xmax>1109</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>373</ymin>
+			<xmax>707</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+</annotation>

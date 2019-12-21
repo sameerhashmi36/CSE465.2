@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>190719-f-35-fighter-jet-2018-ac-442p_5a96cab21cb0290486fc273864e3f74c.fit-760w.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\190719-f-35-fighter-jet-2018-ac-442p_5a96cab21cb0290486fc273864e3f74c.fit-760w.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>507</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>118</ymin>
+			<xmax>586</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

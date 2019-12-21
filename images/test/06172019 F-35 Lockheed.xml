@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>06172019 F-35 Lockheed.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\06172019 F-35 Lockheed.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>436</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>167</ymin>
+			<xmax>630</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>645x344-us-delivers-new-chinook-helicopter-to-turkey-despite-f-35-problem-1535307434126~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\645x344-us-delivers-new-chinook-helicopter-to-turkey-despite-f-35-problem-1535307434126~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>645</width>
+		<height>344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>82</ymin>
+			<xmax>512</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

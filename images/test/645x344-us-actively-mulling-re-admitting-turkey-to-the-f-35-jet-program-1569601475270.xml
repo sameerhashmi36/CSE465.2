@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>645x344-us-actively-mulling-re-admitting-turkey-to-the-f-35-jet-program-1569601475270.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\645x344-us-actively-mulling-re-admitting-turkey-to-the-f-35-jet-program-1569601475270.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>645</width>
+		<height>344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>93</ymin>
+			<xmax>579</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>
