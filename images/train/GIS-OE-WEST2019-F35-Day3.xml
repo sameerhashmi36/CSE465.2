@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>GIS-OE-WEST2019-F35-Day3.png</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\GIS-OE-WEST2019-F35-Day3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>74</ymin>
+			<xmax>724</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

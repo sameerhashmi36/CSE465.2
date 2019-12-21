@@ -1,0 +1,38 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>fransa chinook 2~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\fransa chinook 2~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1333</width>
+		<height>816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>70</ymin>
+			<xmax>1299</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>309</ymin>
+			<xmax>1126</xmax>
+			<ymax>725</ymax>
+		</bndbox>
+	</object>
+</annotation>
