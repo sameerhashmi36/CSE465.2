@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>mig-29-smt-001-e1564238375915.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\mig-29-smt-001-e1564238375915.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2847</width>
+		<height>1982</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>280</ymin>
+			<xmax>2453</xmax>
+			<ymax>1489</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>Russia_-_Air_Force_Mikoyan-Gurevich_MiG-29_(9-13)_31_red_(3103700391).jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\Russia_-_Air_Force_Mikoyan-Gurevich_MiG-29_(9-13)_31_red_(3103700391).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>798</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>109</ymin>
+			<xmax>1166</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

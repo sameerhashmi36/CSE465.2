@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>RMAF_MiG-29-800x445.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\RMAF_MiG-29-800x445.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>90</ymin>
+			<xmax>753</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

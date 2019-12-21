@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>RAF Chinook Whaley Bridge Dam Day 2 CREDIT PA~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\RAF Chinook Whaley Bridge Dam Day 2 CREDIT PA~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>120</ymin>
+			<xmax>435</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

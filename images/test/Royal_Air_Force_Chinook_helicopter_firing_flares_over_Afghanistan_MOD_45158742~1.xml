@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>Royal_Air_Force_Chinook_helicopter_firing_flares_over_Afghanistan_MOD_45158742~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\Royal_Air_Force_Chinook_helicopter_firing_flares_over_Afghanistan_MOD_45158742~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3600</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>842</xmin>
+			<ymin>659</ymin>
+			<xmax>2773</xmax>
+			<ymax>1880</ymax>
+		</bndbox>
+	</object>
+</annotation>

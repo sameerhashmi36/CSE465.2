@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>RAF_Chinook_helicopter_HMS_Queen_Elizabeth_hangar_1~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\RAF_Chinook_helicopter_HMS_Queen_Elizabeth_hangar_1~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>925</width>
+		<height>616</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>62</ymin>
+			<xmax>887</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

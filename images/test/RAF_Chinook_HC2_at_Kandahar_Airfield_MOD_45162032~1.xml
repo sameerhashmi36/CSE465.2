@@ -1,0 +1,38 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>RAF_Chinook_HC2_at_Kandahar_Airfield_MOD_45162032~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\RAF_Chinook_HC2_at_Kandahar_Airfield_MOD_45162032~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3600</width>
+		<height>1744</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>865</xmin>
+			<ymin>120</ymin>
+			<xmax>3544</xmax>
+			<ymax>1378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>black hawk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>918</ymin>
+			<xmax>852</xmax>
+			<ymax>1289</ymax>
+		</bndbox>
+	</object>
+</annotation>

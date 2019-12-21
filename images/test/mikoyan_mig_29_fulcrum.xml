@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>mikoyan_mig_29_fulcrum.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\mikoyan_mig_29_fulcrum.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>111</ymin>
+			<xmax>542</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>Picture1.png19.png</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\Picture1.png19.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>973</width>
+		<height>571</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>7</ymin>
+			<xmax>973</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

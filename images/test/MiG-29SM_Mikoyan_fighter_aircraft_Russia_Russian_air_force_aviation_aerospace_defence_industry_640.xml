@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>MiG-29SM_Mikoyan_fighter_aircraft_Russia_Russian_air_force_aviation_aerospace_defence_industry_640.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\MiG-29SM_Mikoyan_fighter_aircraft_Russia_Russian_air_force_aviation_aerospace_defence_industry_640.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>428</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>91</ymin>
+			<xmax>615</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chinook</folder>
+	<filename>rcaf_chin_1524559612~1.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\chinook\rcaf_chin_1524559612~1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>631</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>21</ymin>
+			<xmax>519</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>
