@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>86715421-slovak-air-force-mig-29.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\86715421-slovak-air-force-mig-29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>46</ymin>
+			<xmax>1175</xmax>
+			<ymax>762</ymax>
+		</bndbox>
+	</object>
+</annotation>

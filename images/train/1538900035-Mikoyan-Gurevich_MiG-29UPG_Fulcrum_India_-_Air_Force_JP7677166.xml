@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1538900035-Mikoyan-Gurevich_MiG-29UPG_Fulcrum_India_-_Air_Force_JP7677166.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\train\1538900035-Mikoyan-Gurevich_MiG-29UPG_Fulcrum_India_-_Air_Force_JP7677166.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>81</ymin>
+			<xmax>398</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>
