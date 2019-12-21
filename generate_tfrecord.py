@@ -31,6 +31,16 @@ FLAGS = flags.FLAGS
 def class_text_to_int(row_label):
     if row_label == 'chinook':
         return 1
+    else if row_label == 'F-35 Lightning':
+        return 2
+    else if row_label == 'Mig-29':
+        return 3
+    else if row_label == 'HMMWV':
+        return 4
+    else if row_label == 'F-22 Raptop':
+        return 5
+    else if row_label == 'F-16':
+        return 6
     else:
         return 0
 
