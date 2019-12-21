@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>yug-302-_ljubljana-1989_mig-29ub.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\yug-302-_ljubljana-1989_mig-29ub.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>639</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>151</ymin>
+			<xmax>909</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

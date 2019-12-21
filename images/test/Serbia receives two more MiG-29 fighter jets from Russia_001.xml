@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>Serbia receives two more MiG-29 fighter jets from Russia_001.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\Serbia receives two more MiG-29 fighter jets from Russia_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>925</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>198</ymin>
+			<xmax>340</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>173</ymin>
+			<xmax>876</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

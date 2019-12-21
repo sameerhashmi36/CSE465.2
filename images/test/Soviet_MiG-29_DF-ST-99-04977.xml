@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>Soviet_MiG-29_DF-ST-99-04977.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\Soviet_MiG-29_DF-ST-99-04977.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2876</width>
+		<height>1900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>82</ymin>
+			<xmax>2629</xmax>
+			<ymax>1713</ymax>
+		</bndbox>
+	</object>
+</annotation>

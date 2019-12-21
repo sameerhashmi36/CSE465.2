@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>thumb2-mig-29-fighter-mikoyan-mig-29-fulcrum-combat-aircraft.png</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\thumb2-mig-29-fighter-mikoyan-mig-29-fulcrum-combat-aircraft.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>710</width>
+		<height>444</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>73</ymin>
+			<xmax>645</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

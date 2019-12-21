@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mig-29</folder>
+	<filename>serbia-mig-29-missiles-1170x610.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Mig-29\serbia-mig-29-missiles-1170x610.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1170</width>
+		<height>610</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mig-29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>61</ymin>
+			<xmax>1081</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>
