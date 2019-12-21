@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>norway-f-35-ioc_79351.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\norway-f-35-ioc_79351.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>88</ymin>
+			<xmax>716</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

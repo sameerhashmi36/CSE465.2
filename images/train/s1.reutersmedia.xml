@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>s1.reutersmedia.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\s1.reutersmedia.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>806</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>154</ymin>
+			<xmax>1234</xmax>
+			<ymax>747</ymax>
+		</bndbox>
+	</object>
+</annotation>

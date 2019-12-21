@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fighter-jets</folder>
+	<filename>polish-f-35-mock-up-bartosz-glowacki_78660.jpg</filename>
+	<path>C:\Users\NOVOAIR\Desktop\Fighter-jets\polish-f-35-mock-up-bartosz-glowacki_78660.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>557</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F-35 Lightning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>81</ymin>
+			<xmax>941</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>
