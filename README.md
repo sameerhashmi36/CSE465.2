@@ -3,7 +3,7 @@
 Object Detection Project
 
 1 - Gathering images
-in my case I use google images to find [chinook] photos , I gather 200 sample
+in my case I use google images to find [chinook] photos , I gather more than 750 sample
 
 2 - Convert extensoins
 convert all images extensoins to xx.jpg , using Format Factory http://www.pcfreetime.com/
@@ -20,7 +20,7 @@ pyrcc5 -o resources.py resources.qrc
 python labelImg.py
 
 5 - Split images manually randomly
-all my samples = 200 ,130 for train ,70 for test
+all my samples = more than 750 ,600+ for train ,150+ for test
 
 6 - Installing TensorFlow-GPU
 pip install --upgrade tensorflow-gpu
