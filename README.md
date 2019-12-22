@@ -20,7 +20,7 @@ pyrcc5 -o resources.py resources.qrc
 python labelImg.py
 
 5 - Split images manually randomly
-all my samples = more than 750 ,600+ for train ,150+ for test
+all my samples = more than 750 , 500+ for train , 200+ for test
 
 6 - Installing TensorFlow-GPU
 pip install --upgrade tensorflow-gpu
